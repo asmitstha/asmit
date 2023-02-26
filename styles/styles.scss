@@ -6,7 +6,7 @@
 }
 
 @import  'variable'; 
-@import "../node_modules/bootstrap/scss/bootstrap";
+@import "vendor/bootstrap/5.2.x/scss/bootstrap";
 @import  'bootstrap-override'; 
 @import  'menu'; 
 @import  'portfolio'; 
