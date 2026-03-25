@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\AosInit.jsx -> aos\":{\"id\":\"components\\\\AosInit.jsx -> aos\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_aos_dist_aos_js.js\"]}}"

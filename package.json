@@ -1,8 +1,17 @@
 {
+  "name": "asmit-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.3",
-    "bootstrap": "^5.0.2",
-    "mdb-ui-kit": "^3.9.0",
-    "remixicon": "^2.5.0"
+    "next": "^14.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "aos": "^2.3.4"
   }
 }
